@@ -82,15 +82,22 @@ document.addEventListener('DOMContentLoaded', function() {
             title: 'Cartões responsivos',
             description: 'Um site sobre cartões que interagem ao toque.',
             technologies: ['HTML', 'CSS', 'JavaScript'],
-            liveLink: 'https://github.com/Ripoli-LadraoDeGalinha/cartoesResponsivos',
-            codeLink: 'https://ripoli-ladraodegalinha.github.io/cartoesResponsivos/'
+            liveLink: 'https://ripoli-ladraodegalinha.github.io/cartoesResponsivos/',
+            codeLink: 'https://github.com/Ripoli-LadraoDeGalinha/cartoesResponsivos'
         },
         {
-            title: '',
-            description: 'Esse site de portfólio, tendo o template sido desenvolvido por Sam Bispo, para as aulas de Back-end.',
-            technologies: ['HTML', 'CSS', 'JavaScript'],
-            liveLink: '#',
-            codeLink: '#'
+            title: 'Meus pesâmes Samuel',
+            description: 'Um site sobre meu jogo favorito, que é Red Dead Redemption 2.',
+            technologies: ['HTML', 'CSS'],
+            liveLink: 'https://ripoli-ladraodegalinha.github.io/meus-pesames-samuel/',
+            codeLink: 'https://github.com/Ripoli-LadraoDeGalinha/meus-pesames-samuel'
+        },
+        {
+            title: 'Tri segundo',
+            description: 'O início em desenvolver sites.',
+            technologies: ['HTML', 'CSS'],
+            liveLink: 'https://ripoli-ladraodegalinha.github.io/triSegundo/',
+            codeLink: 'https://github.com/Ripoli-LadraoDeGalinha/triSegundo'
         }
     ];
 
