@@ -225,7 +225,8 @@ header {
     width: 300px;
     height: 300px;
     border-radius: 50%;
-    background: url('assets/profile.png') center/cover no-repeat;
+    background: url('https://images.steamusercontent.com/ugc/11919673143927491/60773F8F4AE0DA922A0DE8412FE1E95C2CB4B48C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false') center/cover no-repeat;
+    background-size: cover;
     overflow: hidden;
     animation: animate 6s ease-in-out infinite;
     box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
@@ -323,7 +324,8 @@ header {
 .project-image {
     height: 200px;
     /*background-color: #eee;*/
-    background-image: url('assets/project.png');
+    background-size: cover;
+    background-image: url('https://images.steamusercontent.com/ugc/11919673143927491/60773F8F4AE0DA922A0DE8412FE1E95C2CB4B48C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false');
     position: relative;
     overflow: hidden;
 }
@@ -460,7 +462,7 @@ header {
 .social-icons {
     display: flex;
     gap: 1.5rem;
-    margin-top: 2rem;
+    margin-top: 2rem;Ripoli
 }
 
 .social-icons a {
