@@ -79,14 +79,14 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const projects = [
         {
-            title: 'Site acessível',
-            description: 'Um site sobre o Tropicália, desenvolvido pela Alura, para o curso de Acessibilidade na Web.',
+            title: 'Cartões responsivos',
+            description: 'Um site sobre cartões que interagem ao toque.',
             technologies: ['HTML', 'CSS', 'JavaScript'],
-            liveLink: '#',
-            codeLink: '#'
+            liveLink: 'https://github.com/Ripoli-LadraoDeGalinha/cartoesResponsivos',
+            codeLink: 'https://ripoli-ladraodegalinha.github.io/cartoesResponsivos/'
         },
         {
-            title: 'Site do portfólio',
+            title: '',
             description: 'Esse site de portfólio, tendo o template sido desenvolvido por Sam Bispo, para as aulas de Back-end.',
             technologies: ['HTML', 'CSS', 'JavaScript'],
             liveLink: '#',
